@@ -1,4 +1,5 @@
-# InformationGathering
+# EX-2.InformationGathering
+## Date:
 Information Gathering Techiques
 
 # To perform information gathering techniques
